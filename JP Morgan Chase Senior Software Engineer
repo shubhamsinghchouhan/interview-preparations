@@ -1,0 +1,78 @@
+JP Morgan Chase         Senior Software Engineer                Jun 2025 – Present          9 Months
+    VC Investment Application (JP Morgan Chase): Focused on Hotwire/Turbo, caching, and redundant code removal (~25%).
+    Tech: Ruby - Rails
+
+CodeCraft Technologies  Senior Engineer, Software Development   Jun 2023 – May 2025         24 Months
+    Food Ordering & Recruitment Pipeline (CodeCraft): Managed POS integrations (Toast, Yelp) and a full-stack recruitment platform.
+    Tech: Ruby - Rails
+
+Talkpush                Senior Software Engineer                Jun 2022 – Feb 2023         9 Months
+    Workday & DocuSign Integrations (Talkpush): Specialized in third-party API integrations and CloudWatch logging.
+    Tech: Python
+
+Talentica               Software Senior Software Engineer       Apr 2021 – Apr 2022         13 Months
+    Project: Digital Home Lending Platform (Talentica): Streamlined lending flows and optimized p95 API latency by ~30%.
+    Tech: Python
+
+Harbinger Group         Senior Software Engineer                Jan 2020 – Apr 2021         16 Months
+    Project: Workday-Talkpush Integration (Harbinger): Designed a SOAP to REST integration using a Python-based service. 
+    Tech: Python
+
+Thoughtmines Infotech   Software Engineer/Associate/Trainee     May 2017 – Dec 2019         32 Months
+    Project: Project management
+    Project: Student Information: Integrated biometric devices and payment gateways, reducing check-in times by ~75%.
+    Project: HR Systems
+    Tech: Ruby - Rails
+
+
+help me to design and develop these applications on python
+
+
+
+
+
+#6: Recruitment based application
+
+May 2022 - Feb 2023
+
+Description: This project is a leading automated recruiting solution that helps you engage, nurture and hire talents faster.
+
+Role and Responsibilities: Implemented Oracle, DocuSign and Workday integrations that reduced time-to-sign by ~25% and onboarding TAT by ~20%.
+
+Added CloudWatch logging and Slack alerts, shrinking incident detection time by ~40% and reducing repeat outages by ~30%
+
+Improved p95 endpoint latency by ~35% through caching and query optimization
+
+Improved application performance and reliability
+
+Role: Senior Software developer
+
+Stack: Backend - Python Database - MySQL and PostgreSQL Frontend - HTML, CSS, JS, ReactJS
+
+
+
+#5: Home lending platform
+
+Apr 2021 to May 2022
+
+Description: This project is a leading home lending platform that helps you to apply for home loans online and get approved faster.
+
+Role and Responsibilities: Developed digital home lending platform, streamlined home-lending flows, reduced loan application processing time by~20% and improved user experience
+
+Optimized backend performance (p95 API latency down ~30%); expanded test coverage from ~50% to ~95%, reducing regressions by ~30%
+
+Role: Senior Software developer
+
+Stack: Backend - Python Database - MySQL and PostgreSQL Frontend - HTML, CSS, JS, ReactJS
+
+
+
+#4: Connector Application
+
+Jan to Apr 2021
+
+Description: This project is an API based connector application that exchanges data between two independent applications i.e., functionality to get details from first application and send it to another one and do the vice-versa.
+
+Role and Responsibilities: Designed and implemented a Workday - Talkpush integration (SOAP to REST) on Python based service; automating data ingestion, and lowering schema mismatches by ~30%
+
+Provided APIs for mobile and web synchronization
